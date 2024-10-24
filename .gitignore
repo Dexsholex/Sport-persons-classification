@@ -1,0 +1,4 @@
+# Ignore images directories to save spaces
+# Will upload the zip images data after concluding the project
+scrape_images/
+model/datasets/
