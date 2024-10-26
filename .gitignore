@@ -2,3 +2,4 @@
 # Will upload the zip images data after concluding the project
 scrape_images/
 model/datasets/
+model/.ipynb_checkpoints
