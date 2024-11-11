@@ -44,9 +44,9 @@ To run this project locally:
 5. Upload an image and see the classification result.
 
 ## Future Improvements
-Expand the dataset to include more sports personalities.
-Enhance model accuracy by experimenting with deep learning techniques like Convolutional Neural Networks (CNNs).
-Add more robust facial feature extraction methods.
+- Expand the dataset to include more sports personalities.
+- Enhance model accuracy by experimenting with deep learning techniques like Convolutional Neural Networks (CNNs).
+- Add more robust facial feature extraction methods.
 ## Contributing
 Feel free to fork this project and submit pull requests for improvements or additional features.
 
